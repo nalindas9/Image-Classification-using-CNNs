@@ -1,5 +1,15 @@
 # Image-Classification-using-CNNs
-Final Project of Course ENPM673; Implementation done in Tensorflow Keras
+This is the repository for the project - Image-Classification-using-CNNs. The goal was to classify Dogs and Cats in a given image.
+
+### Training Results
+<img src = "images/acc1.png" width="425"> <img src = "images/loss1.png" width="425">
+
+### Validation Results
+<img src = "images/val_acc1.png" width="425"> <img src = "images/val_loss1.png" width="425">
+
+### Test Results
+#### Predicted label: Cat = 0 Dog = 1
+<img src = "images/cat.59.jpg.jpg"> <img src = "images/dog.125.jpg.jpg">
 
 ## System and library requirements.
  - Python3
