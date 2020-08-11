@@ -1,14 +1,24 @@
 # Image-Classification-using-CNNs
-This is the repository for the project - Image-Classification-using-CNNs. The goal was to classify Dogs and Cats in a given image.
+[![License:MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/nalindas9/Image-Classification-using-CNNs/blob/master/LICENSE)
+
+## About
+This is the repository for the project - Image-Classification-using-CNNs. The goal was to classify Dogs and Cats in a given image. This Cat vs Dog image classifier is trained using VGG-16 architecture with Keras-Tensorflow. Validation accuracy is 78.5%.
 
 ### Training Results
-<img src = "images/acc1.png" width="425"> <img src = "images/loss1.png" width="425">
+#### Accuracy vs Epochs 
+<img src = "images/acc1.png" width="425" > 
+
+#### Loss vs Epochs 
+<img src = "images/loss1.png" width="425">
 
 ### Validation Results
-<img src = "images/val_acc1.png" width="425"> <img src = "images/val_loss1.png" width="425">
+#### Accuracy vs Epochs 
+<img src = "images/val_acc1.png" width="425"> 
 
-### Test Results
-#### Predicted label: Cat = 0 Dog = 1
+#### Loss vs Epochs 
+<img src = "images/val_loss1.png" width="425">
+
+### Predicted label: Cat = 0 Dog = 1
 <img src = "images/cat.59.jpg.jpg"> <img src = "images/dog.125.jpg.jpg">
 
 ## System and library requirements.
